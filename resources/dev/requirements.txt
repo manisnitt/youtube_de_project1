@@ -1,0 +1,7 @@
+pycryptodomex
+pycryptodome
+loguru
+boto3
+pyspark
+findspark
+mysql-connector-python
